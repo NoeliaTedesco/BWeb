@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <descripcion>Biblos - Revisar imagenes</descripcion>
+    <estado>Pasa</estado>
+    <imgFalla></imgFalla>
+    <host>sistemas.osde.com</host>
+    <nombreDeLaPrueba>Test_Imagen_01</nombreDeLaPrueba>
+    <pasos>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1563072867</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <usser>SS27310759</usser>
+        <password>intranet79</password>
+    </usuario>
+    <version>0.1.0</version>
+</objects>
