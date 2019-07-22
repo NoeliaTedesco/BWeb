@@ -1,0 +1,23 @@
+2019-07-21 22:27:33,595 INFO  [Log] Start test: Test_Imagen_01 
+2019-07-21 22:28:15,759 INFO  [Log] Se ingresa a la testIntranet 
+2019-07-21 22:28:15,759 INFO  [Log] 01_Se ingresa a la test Intranet: Pasa 
+2019-07-21 22:29:23,889 INFO  [Log] 02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo: Pasa 
+2019-07-21 22:30:40,058 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-07-21 22:30:47,969 INFO  [Log] Se selecciona el host de prueba 
+2019-07-21 22:30:48,266 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-07-21 22:31:00,537 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-07-21 22:31:00,537 INFO  [Log] 04_Ingresa a la opcion del menu Busqueda de contenido: Pasa 
+2019-07-21 22:31:39,547 INFO  [Log] Se logra seleccionar el contenido 
+2019-07-21 22:31:39,547 INFO  [Log] Se logra buscar el contenido 
+2019-07-21 22:31:42,661 INFO  [Log] No se encuentra error en consola 
+2019-07-21 22:31:42,662 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-21 22:31:56,042 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78 No se encuentra imagen presente 
+2019-07-21 22:32:20,035 INFO  [Log] Se logra seleccionar el contenido 
+2019-07-21 22:32:20,035 INFO  [Log] Se logra buscar el contenido 
+2019-07-21 22:32:23,126 INFO  [Log] No se encuentra error en consola 
+2019-07-21 22:32:23,126 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-21 22:32:36,452 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78 No se encuentra imagen presente 
+2019-07-21 22:33:00,865 INFO  [Log] Se logra seleccionar el contenido 
+2019-07-21 22:33:00,865 INFO  [Log] Se logra buscar el contenido 
+2019-07-21 22:38:14,279 INFO  [Log] Falla el seleccionar la opcion de menu 
+2019-07-21 22:38:14,279 INFO  [Log] Falla hacer clic en boton cancelar 

@@ -71,7 +71,7 @@ public class BuscarImagenes_Step extends BaseStep {
 					imagenPresente = "No se encuentra imagen presente";
 					StepHelper.takeScreenShot(ex.getIdContenido(), "Desarrollo");
 				}
-				CurrentPage.As(Admin_HomePage.class).cancelarContenido();
+				CurrentPage.As(Admin_HomePage.class).cancelarContenido("Busqueda de contenido");
 				log.Log.info("Para el id:" + ex.getIdContenido() + " " + imagenPresente );
 			}
 			log.Log.SuccessStep(nombrePaso);

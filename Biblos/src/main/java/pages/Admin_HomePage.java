@@ -251,11 +251,17 @@ public class Admin_HomePage extends BasePage {
 		return estaPresente;
 	}
 	
-	public void cancelarContenido () {
+	public void cancelarContenido (String opcionMenu) {
 		try {
 			PageHelper.waitImplicit();
 			wait.until(ExpectedConditions.elementToBeClickable(btnCancelar));
 			btnCancelar.click();
+			PageHelper.waitImplicit();
+			if (PageHelper.elementStillPresent(btnCancelar)) {
+				driver.switchTo().parentFrame();
+				seleccionarOpcionMenu(opcionMenu);
+				Log.info("Falla hacer clic en boton cancelar");
+			}
 			waitFluent.until(ExpectedConditions.elementToBeClickable(campoBuscar));
 			campoBuscar.clear();
 		} catch (Exception e) {
