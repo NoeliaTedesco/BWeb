@@ -9,6 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 
 import base.BasePage;
+import base.BaseStep;
 import helpers.PageHelper;
 import log.Log;
 
@@ -95,6 +96,7 @@ public class Admin_HomePage extends BasePage {
 	public boolean verificarCargaCorrecta() {
 		boolean estaCargado = false;
 		try {
+			PageHelper.WaitForPageLoading();
 			while (PageHelper.elementStillPresent(loadingWrapper)){
 				PageHelper.WaitForPageLoading();
 			}
@@ -251,16 +253,18 @@ public class Admin_HomePage extends BasePage {
 		return estaPresente;
 	}
 	
-	public void cancelarContenido (String opcionMenu) {
+	public void cancelarContenido (String opcionMenu, String urlsite, String host) {
 		try {
 			PageHelper.waitImplicit();
 			wait.until(ExpectedConditions.elementToBeClickable(btnCancelar));
 			btnCancelar.click();
 			PageHelper.waitImplicit();
 			if (PageHelper.elementStillPresent(btnCancelar)) {
-				driver.switchTo().parentFrame();
+				BaseStep.NavigateToSite(urlsite);
+				seleccionarHost(host);
+				clicAdministradorGeneral();
 				seleccionarOpcionMenu(opcionMenu);
-				Log.info("Falla hacer clic en boton cancelar");
+				Log.info("Se vuelve a ingresar a Biblos");
 			}
 			waitFluent.until(ExpectedConditions.elementToBeClickable(campoBuscar));
 			campoBuscar.clear();

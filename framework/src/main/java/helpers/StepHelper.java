@@ -53,6 +53,7 @@ public class StepHelper {
 				Files.copy(imagen, new File(pathImg));
 			}
 		} catch (Exception ex) {
+			ex.printStackTrace();
 			System.out.println(ex.getMessage());
 		}
 		return pathImg;
