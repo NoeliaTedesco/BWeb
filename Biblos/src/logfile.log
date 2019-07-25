@@ -1,76 +1,37 @@
-2019-07-24 20:53:34,734 INFO  [Log] Start test: Test_Imagen_01 
-2019-07-24 20:53:47,096 INFO  [Log] Se ingresa a la testIntranet 
-2019-07-24 20:53:47,096 INFO  [Log] 01_Se ingresa a la test Intranet: Pasa 
-2019-07-24 20:54:58,171 INFO  [Log] 02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo: Pasa 
-2019-07-24 20:56:12,780 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-24 20:56:24,495 INFO  [Log] Se selecciona el host de prueba 
-2019-07-24 20:56:24,691 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-24 20:56:40,326 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-24 20:56:40,326 INFO  [Log] 04_Ingresa a la opcion del menu Busqueda de contenido: Pasa 
-2019-07-24 20:57:21,729 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-24 20:57:21,729 INFO  [Log] Se logra buscar el contenido 
-2019-07-24 20:57:25,094 INFO  [Log] No se encuentra error en consola 
-2019-07-24 20:57:25,094 INFO  [Log] La URL de la imagen no aparece en la pagina  
-2019-07-24 20:57:25,575 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78_0_No se encuentra imagen presente 
-2019-07-24 20:58:11,286 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-24 20:58:11,286 INFO  [Log] Se logra buscar el contenido 
-2019-07-24 20:58:14,504 INFO  [Log] No se encuentra error en consola 
-2019-07-24 20:58:14,505 INFO  [Log] La URL de la imagen no aparece en la pagina  
-2019-07-24 20:58:14,837 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78_1_No se encuentra imagen presente 
-2019-07-24 20:58:59,350 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-24 20:58:59,350 INFO  [Log] Se logra buscar el contenido 
-2019-07-24 20:58:59,927 INFO  [Log] Para el id:09bb70a5-6297-4576-b224-6baf9d53e959_2_Se encuentra la imagen en la pagina 
-2019-07-24 20:59:33,149 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-24 20:59:44,732 INFO  [Log] Se selecciona el host de prueba 
-2019-07-24 20:59:44,893 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-24 20:59:56,376 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-24 20:59:56,376 INFO  [Log] Se vuelve a ingresar a Biblos 
-2019-07-24 21:00:28,620 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-24 21:00:28,620 INFO  [Log] Se logra buscar el contenido 
-2019-07-24 21:00:29,235 INFO  [Log] Para el id:18d565c8-ecf1-4d3a-a15d-b116e0ce3efc_3_Se encuentra la imagen en la pagina 
-2019-07-24 21:01:01,859 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-24 21:01:13,272 INFO  [Log] Se selecciona el host de prueba 
-2019-07-24 21:01:13,440 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-24 21:01:24,753 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-24 21:01:24,753 INFO  [Log] Se vuelve a ingresar a Biblos 
-2019-07-24 21:01:24,924 INFO  [Log] 05_Se busca cada contenido del documento: Pasa 
-2019-07-24 21:01:24,924 INFO  [Log] End test: Test_Imagen_01 
-2019-07-24 21:01:32,037 INFO  [Log] Sent message successfully.... 
-2019-07-24 21:06:56,995 INFO  [Log] Start test: Test_Imagen_01 
-2019-07-24 21:07:06,587 INFO  [Log] Se ingresa a la testIntranet 
-2019-07-24 21:07:06,587 INFO  [Log] 01_Se ingresa a la test Intranet: Pasa 
-2019-07-24 21:08:17,907 INFO  [Log] 02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo: Pasa 
-2019-07-24 21:09:32,475 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-24 21:09:43,988 INFO  [Log] Se selecciona el host de prueba 
-2019-07-24 21:09:44,201 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-24 21:09:59,614 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-24 21:09:59,614 INFO  [Log] 04_Ingresa a la opcion del menu Busqueda de contenido: Pasa 
-2019-07-24 21:10:40,409 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-24 21:10:40,409 INFO  [Log] Se logra buscar el contenido 
-2019-07-24 21:10:43,625 INFO  [Log] No se encuentra error en consola 
-2019-07-24 21:10:43,625 INFO  [Log] La URL de la imagen no aparece en la pagina  
-2019-07-24 21:10:43,996 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78_0_No se encuentra imagen presente 
-2019-07-24 21:11:27,372 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-24 21:11:27,372 INFO  [Log] Se logra buscar el contenido 
-2019-07-24 21:11:30,605 INFO  [Log] No se encuentra error en consola 
-2019-07-24 21:11:30,605 INFO  [Log] La URL de la imagen no aparece en la pagina  
-2019-07-24 21:11:30,948 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78_1_No se encuentra imagen presente 
-2019-07-24 21:12:16,894 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-24 21:12:16,894 INFO  [Log] Se logra buscar el contenido 
-2019-07-24 21:12:17,547 INFO  [Log] Para el id:09bb70a5-6297-4576-b224-6baf9d53e959_2_Se encuentra la imagen en la pagina 
-2019-07-24 21:12:51,018 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-24 21:13:03,258 INFO  [Log] Se selecciona el host de prueba 
-2019-07-24 21:13:03,463 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-24 21:13:14,593 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-24 21:13:14,593 INFO  [Log] Se vuelve a ingresar a Biblos 
-2019-07-24 21:13:42,196 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-24 21:13:42,196 INFO  [Log] Se logra buscar el contenido 
-2019-07-24 21:13:42,898 INFO  [Log] Para el id:18d565c8-ecf1-4d3a-a15d-b116e0ce3efc_3_Se encuentra la imagen en la pagina 
-2019-07-24 21:14:15,452 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-24 21:14:26,571 INFO  [Log] Se selecciona el host de prueba 
-2019-07-24 21:14:26,776 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-24 21:14:38,129 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-24 21:14:38,129 INFO  [Log] Se vuelve a ingresar a Biblos 
-2019-07-24 21:14:38,337 INFO  [Log] 05_Se busca cada contenido del documento: Pasa 
-2019-07-24 21:14:38,337 INFO  [Log] End test: Test_Imagen_01 
-2019-07-24 21:14:44,978 INFO  [Log] Sent message successfully.... 
+2019-07-25 14:59:07,383 INFO  [Log] Se ingresa a la testIntranet 
+2019-07-25 14:59:07,384 INFO  [Log] 01_Se ingresa a la test Intranet: Pasa 
+2019-07-25 15:00:09,450 INFO  [Log] 02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo: Pasa 
+2019-07-25 15:01:13,017 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-07-25 15:01:24,249 INFO  [Log] Se selecciona el host de prueba 
+2019-07-25 15:01:24,594 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-07-25 15:01:39,206 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-07-25 15:01:39,207 INFO  [Log] 04_Ingresa a la opcion del menu Busqueda de contenido: Pasa 
+2019-07-25 15:02:17,948 INFO  [Log] Se logra seleccionar el contenido 
+2019-07-25 15:02:17,949 INFO  [Log] Se logra buscar el contenido 
+2019-07-25 15:02:21,367 INFO  [Log] No se encuentra error en consola 
+2019-07-25 15:02:21,367 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 15:02:21,898 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78_0_No se encuentra imagen presente 
+2019-07-25 15:03:01,497 INFO  [Log] Se logra seleccionar el contenido 
+2019-07-25 15:03:01,497 INFO  [Log] Se logra buscar el contenido 
+2019-07-25 15:03:04,809 INFO  [Log] No se encuentra error en consola 
+2019-07-25 15:03:04,809 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 15:03:05,242 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78_1_No se encuentra imagen presente 
+2019-07-25 15:03:44,164 INFO  [Log] Se logra seleccionar el contenido 
+2019-07-25 15:03:44,164 INFO  [Log] Se logra buscar el contenido 
+2019-07-25 15:03:46,180 INFO  [Log] Para el id:09bb70a5-6297-4576-b224-6baf9d53e959_2_Se encuentra la imagen en la pagina 
+2019-07-25 15:04:19,059 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-07-25 15:04:29,840 INFO  [Log] Se selecciona el host de prueba 
+2019-07-25 15:04:30,144 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-07-25 15:04:40,463 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-07-25 15:04:40,463 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-07-25 15:05:14,443 INFO  [Log] Se logra seleccionar el contenido 
+2019-07-25 15:05:14,443 INFO  [Log] Se logra buscar el contenido 
+2019-07-25 15:05:16,449 INFO  [Log] Para el id:18d565c8-ecf1-4d3a-a15d-b116e0ce3efc_3_Se encuentra la imagen en la pagina 
+2019-07-25 15:05:49,440 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-07-25 15:05:59,964 INFO  [Log] Se selecciona el host de prueba 
+2019-07-25 15:06:00,275 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-07-25 15:06:10,788 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-07-25 15:06:10,789 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-07-25 15:06:10,983 INFO  [Log] 05_Se busca cada contenido del documento: Pasa 
+2019-07-25 15:06:10,983 INFO  [Log] End test: Test_Imagen_01 
+2019-07-25 15:06:19,285 INFO  [Log] Sent message successfully.... 

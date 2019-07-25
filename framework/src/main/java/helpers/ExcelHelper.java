@@ -98,11 +98,14 @@ public class ExcelHelper {
 		FileOutputStream webdata = new FileOutputStream(file);
 		HSSFWorkbook workbookOut = new HSSFWorkbook();
 		HSSFSheet sheet = workbookOut.createSheet();
-		HSSFRow row = sheet.createRow(1);
-		
+		HSSFRow rowHeader = sheet.createRow(0);
+		rowHeader.createCell(0).setCellValue("Ids contenidos");
+		rowHeader.createCell(1).setCellValue("URLS");
+
 		for (int i = 0; i < idsContenidos.size(); i++) {
-		      row.createCell(0).setCellValue(idsContenidos.get(i));
-		      row.createCell(1).setCellValue(URLS.get(i));
+			HSSFRow row = sheet.createRow(i+1);
+			row.createCell(0).setCellValue(idsContenidos.get(i));
+			row.createCell(1).setCellValue(URLS.get(i));
 		}
 
 		workbookOut.write(webdata);
