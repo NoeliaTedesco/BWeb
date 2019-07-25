@@ -55,7 +55,7 @@ public class Report {
 	private static final String KEY2 = "Farmacia";
 	private static final String KEY3 = "Administrador";
 	private static final String KEY4 = "Medico";
-	private static final String KEY5 = "Socio";
+	private static final String KEY5 = "sistemas.osde.com";
 
 	public static String getTime() {
 		Calendar calendar = Calendar.getInstance();

@@ -75,9 +75,6 @@ public class Admin_HomePage extends BasePage {
 	@FindBy(id = "mainTabContainer_tablist")
 	private WebElement menuContainer;
 
-	@FindBy(xpath = "")
-	private WebElement containerVentana;
-
 	@FindBy(className = "loading-wrapper")
 	private WebElement loadingWrapper;
 
@@ -92,6 +89,12 @@ public class Admin_HomePage extends BasePage {
 	
 	@FindBy (xpath = "//a[@onclick = 'cancelEdit();']")
 	private WebElement btnCancelar;
+	
+	@FindBy (className = "wysiwyg-wrapper")
+	private WebElement textAreaWrapper;
+	
+	@FindBy (id = "tinymce")
+	private WebElement textArea;
 	
 	public boolean verificarCargaCorrecta() {
 		boolean estaCargado = false;
@@ -243,7 +246,9 @@ public class Admin_HomePage extends BasePage {
 		Boolean estaPresente = false;
 		try {
 			waitFluent.until(ExpectedConditions.elementToBeClickable(menuContainer));
-			WebElement imagen = driver.findElement(By.xpath("//*[contains(text(), '"+url+"')]"));
+			wait.until(ExpectedConditions.visibilityOf(textAreaWrapper));
+			wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("body_ifr")));
+			WebElement imagen = textArea.findElement(By.xpath("//img[contains(@src, '"+url+"')]"));
 			estaPresente = imagen.isDisplayed();
 			PageHelper.ScrollingToElement(imagen);
 		} catch (Exception e) {
@@ -256,6 +261,7 @@ public class Admin_HomePage extends BasePage {
 	public void cancelarContenido (String opcionMenu, String urlsite, String host) {
 		try {
 			PageHelper.waitImplicit();
+			driver.switchTo().parentFrame();
 			wait.until(ExpectedConditions.elementToBeClickable(btnCancelar));
 			btnCancelar.click();
 			PageHelper.waitImplicit();
@@ -269,8 +275,13 @@ public class Admin_HomePage extends BasePage {
 			waitFluent.until(ExpectedConditions.elementToBeClickable(campoBuscar));
 			campoBuscar.clear();
 		} catch (Exception e) {
-			e.printStackTrace();
-			Log.info("Falla el cancelar el contenido");
+			BaseStep.NavigateToSite(urlsite);
+			seleccionarHost(host);
+			clicAdministradorGeneral();
+			seleccionarOpcionMenu(opcionMenu);
+			waitFluent.until(ExpectedConditions.elementToBeClickable(campoBuscar));
+			campoBuscar.clear();
+			Log.info("Se vuelve a ingresar a Biblos");		
 		}
 	}
 

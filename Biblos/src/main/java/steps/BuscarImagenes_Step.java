@@ -3,8 +3,12 @@ package steps;
 import static config.DataSetter.configuration;
 
 import java.io.IOException;
+import java.security.KeyStore.Entry;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 import java.util.Objects;
 
 import org.jfree.util.Log;
@@ -23,8 +27,11 @@ import pages.Test_IntranetPage;
 
 public class BuscarImagenes_Step extends BaseStep {
 
-	public static void Run(String testName) {
+	public static void Run(String testName) throws IOException {
 		String nombrePaso = "";
+		HashMap<String, String> idContenidosConImagenes = new HashMap<String, String>();
+		HashMap<String, String> idContenidosSinImagenes = new HashMap<String, String>();
+				
 		try {
 			log.Log.startTestCase(testName);
 			Usuario usr = XMLHelper.object.getUsuario();
@@ -61,19 +68,32 @@ public class BuscarImagenes_Step extends BaseStep {
 			nombrePaso = "05_Se busca cada contenido del documento";
 			int i = 0;
 			String imagenPresente = "No se encuentra imagen presente";
+			ArchivoExcel ex = null;
+			
 			for (i=0; i < listadoExcel.size(); i++){
-				ArchivoExcel ex = listadoExcel.get(i).getexcel();
+				
+				 ex = listadoExcel.get(i).getexcel();
+				
 				CurrentPage.As(Admin_HomePage.class).buscarContenido(ex.getIdContenido());	
+				
 				if (CurrentPage.As(Admin_HomePage.class).esVisibleURLimagen(ex.getUrl())) {
 					imagenPresente = "Se encuentra la imagen en la pagina";
-					StepHelper.takeScreenShot(ex.getIdContenido(), "Desarrollo");
+					idContenidosConImagenes.put(ex.getIdContenido()+ "_"+ i, ex.getUrl());
+					StepHelper.takeScreenShot(ex.getIdContenido(), "Desarrollo_" + i);
 				} else {
 					imagenPresente = "No se encuentra imagen presente";
-					StepHelper.takeScreenShot(ex.getIdContenido(), "Desarrollo");
+					idContenidosSinImagenes.put(ex.getIdContenido()+ "_" + i, ex.getUrl());
+					StepHelper.takeScreenShot(ex.getIdContenido(), "Desarrollo_" + i);
 				}
+				
+				log.Log.info("Para el id:" + ex.getIdContenido() + "_" + i + "_" + imagenPresente );
 				CurrentPage.As(Admin_HomePage.class).cancelarContenido("Busqueda de contenido", configuration.geturlDesarrolloWindow(),XMLHelper.object.getHost());
-				log.Log.info("Para el id:" + ex.getIdContenido() + " " + imagenPresente );
 			}
+			
+			ExcelHelper.EscribirExcel("Imagenes_Presentes", idContenidosConImagenes);
+			ExcelHelper.EscribirExcel("Imagenes_NO_Presentes", idContenidosSinImagenes);
+
+			
 			log.Log.SuccessStep(nombrePaso);
 
 		} catch (AssertionError ex) {

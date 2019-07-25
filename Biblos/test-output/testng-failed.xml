@@ -9,7 +9,7 @@
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
           <include name="stepFail"/>
-          <include name="Test_Imagen_01"/>
+          <include name="Test_Imagen_01" invocation-numbers="0"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- suiteTest.Regresion_RecuperarImagen -->

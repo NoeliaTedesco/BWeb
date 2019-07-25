@@ -2,53 +2,53 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1360982" started-at="2019-07-22T23:20:40Z" finished-at="2019-07-22T23:43:21Z">
+  <suite name="Default suite" duration-ms="473278" started-at="2019-07-25T00:06:51Z" finished-at="2019-07-25T00:14:44Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1360982" started-at="2019-07-22T23:20:40Z" finished-at="2019-07-22T23:43:21Z">
+    <test name="Default test" duration-ms="473278" started-at="2019-07-25T00:06:51Z" finished-at="2019-07-25T00:14:44Z">
       <class name="suiteTest.Regresion_RecuperarImagen">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:suiteTest.Regresion_RecuperarImagen@548e7350]" name="setUpClass" is-config="true" duration-ms="7525" started-at="2019-07-22T20:20:40Z" finished-at="2019-07-22T20:20:48Z">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:suiteTest.Regresion_RecuperarImagen@3c0ecd4b]" name="setUpClass" is-config="true" duration-ms="4374" started-at="2019-07-24T21:06:51Z" finished-at="2019-07-24T21:06:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:suiteTest.Regresion_RecuperarImagen@548e7350]" name="setUp" is-config="true" duration-ms="2527" started-at="2019-07-22T20:20:48Z" finished-at="2019-07-22T20:20:50Z">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:suiteTest.Regresion_RecuperarImagen@3c0ecd4b]" name="setUp" is-config="true" duration-ms="869" started-at="2019-07-24T21:06:56Z" finished-at="2019-07-24T21:06:56Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void suiteTest.Regresion_RecuperarImagen.Test_Imagen_01(java.lang.reflect.Method)]]>
+                <![CDATA[public void suiteTest.Regresion_RecuperarImagen.Test_Imagen_01(java.lang.reflect.Method) throws java.io.IOException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="Test_Imagen_01(java.lang.reflect.Method)[pri:0, instance:suiteTest.Regresion_RecuperarImagen@548e7350]" name="Test_Imagen_01" duration-ms="1343692" started-at="2019-07-22T20:20:50Z" finished-at="2019-07-22T20:43:14Z">
+        <test-method status="PASS" signature="Test_Imagen_01(java.lang.reflect.Method)[pri:0, instance:suiteTest.Regresion_RecuperarImagen@3c0ecd4b]" name="Test_Imagen_01" duration-ms="461354" started-at="2019-07-24T21:06:56Z" finished-at="2019-07-24T21:14:38Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void suiteTest.Regresion_RecuperarImagen.Test_Imagen_01(java.lang.reflect.Method)]]>
+                <![CDATA[public void suiteTest.Regresion_RecuperarImagen.Test_Imagen_01(java.lang.reflect.Method) throws java.io.IOException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test_Imagen_01 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:suiteTest.Regresion_RecuperarImagen@548e7350]" name="tearDown" is-config="true" duration-ms="1025" started-at="2019-07-22T20:43:14Z" finished-at="2019-07-22T20:43:15Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="stepFail(org.testng.ITestResult)[pri:0, instance:suiteTest.Regresion_RecuperarImagen@548e7350]" name="stepFail" is-config="true" duration-ms="0" started-at="2019-07-22T20:43:14Z" finished-at="2019-07-22T20:43:14Z">
+        <test-method status="PASS" signature="stepFail(org.testng.ITestResult)[pri:0, instance:suiteTest.Regresion_RecuperarImagen@3c0ecd4b]" name="stepFail" is-config="true" duration-ms="0" started-at="2019-07-24T21:14:38Z" finished-at="2019-07-24T21:14:38Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Test_Imagen_01 status=SUCCESS method=Regresion_RecuperarImagen.Test_Imagen_01(java.lang.reflect.Method)[pri:0, instance:suiteTest.Regresion_RecuperarImagen@548e7350] output={null}]]]>
+                <![CDATA[[TestResult name=Test_Imagen_01 status=SUCCESS method=Regresion_RecuperarImagen.Test_Imagen_01(java.lang.reflect.Method)[pri:0, instance:suiteTest.Regresion_RecuperarImagen@3c0ecd4b] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stepFail -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:suiteTest.Regresion_RecuperarImagen@548e7350]" name="tearDownClass" is-config="true" duration-ms="6131" started-at="2019-07-22T20:43:15Z" finished-at="2019-07-22T20:43:21Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:suiteTest.Regresion_RecuperarImagen@3c0ecd4b]" name="tearDown" is-config="true" duration-ms="421" started-at="2019-07-24T21:14:38Z" finished-at="2019-07-24T21:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:suiteTest.Regresion_RecuperarImagen@3c0ecd4b]" name="tearDownClass" is-config="true" duration-ms="6216" started-at="2019-07-24T21:14:38Z" finished-at="2019-07-24T21:14:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

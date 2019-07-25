@@ -1,18 +1,24 @@
 package helpers;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 
+import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Workbook;
 
 import com.poiji.bind.Poiji;
 import com.poiji.exception.PoijiExcelType;
@@ -38,11 +44,11 @@ public class ExcelHelper {
 	public static void leerExcelCargado(String testName) throws IOException {
 		List<Objects> lista = new ArrayList<Objects>();
 		InputStream fs = new FileInputStream("src\\datapool\\" + testName + ".xls");
-		PoijiOptions options = PoijiOptionsBuilder.settings(0).build(); 
+		PoijiOptions options = PoijiOptionsBuilder.settings(0).build();
 		List<ArchivoExcel> excel = Poiji.fromExcel(fs, PoijiExcelType.XLS, ArchivoExcel.class, options);
 		int i = 0;
-		for (i = 0; i < excel.size() ; i++) {
-			Objects obj = new Objects (excel.get(i));
+		for (i = 0; i < excel.size(); i++) {
+			Objects obj = new Objects(excel.get(i));
 			lista.add(obj);
 		}
 		objectsExcel = lista;
@@ -75,5 +81,31 @@ public class ExcelHelper {
 			misDatos.add(currentHash);
 		}
 		return misDatos;
+	}
+
+	public static void EscribirExcel(String testName, HashMap<String, String> contenido) throws IOException {
+
+		ArrayList<String> idsContenidos = new ArrayList<String>();
+		ArrayList<String> URLS = new ArrayList<String>();
+
+		for (Map.Entry<String, String> entry : contenido.entrySet()) {
+			idsContenidos.add(entry.getKey());
+			URLS.add(entry.getValue());
+		}
+
+		File file = new File("src\\test\\java\\suiteTest\\" + testName + ".xls");
+
+		FileOutputStream webdata = new FileOutputStream(file);
+		HSSFWorkbook workbookOut = new HSSFWorkbook();
+		HSSFSheet sheet = workbookOut.createSheet();
+		HSSFRow row = sheet.createRow(1);
+		
+		for (int i = 0; i < idsContenidos.size(); i++) {
+		      row.createCell(0).setCellValue(idsContenidos.get(i));
+		      row.createCell(1).setCellValue(URLS.get(i));
+		}
+
+		workbookOut.write(webdata);
+		webdata.close();
 	}
 }
