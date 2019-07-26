@@ -74,7 +74,12 @@ public class Buscar_Imagenes_UnicoIDContenido_Step extends BaseStep {
 			for (i=0; i < listadoExcel.size(); i++){
 				
 				 ex = listadoExcel.get(i).getexcel();
-				 System.out.println(ex.getUrl());
+				
+				 if (!ex.getIdContenido().equals(excelId.getIdContenido())){
+					excelId = ex;
+					CurrentPage.As(Admin_HomePage.class).cancelarContenido("Busqueda de contenido", configuration.geturlDesarrolloWindow(),XMLHelper.object.getHost());
+					CurrentPage.As(Admin_HomePage.class).buscarContenido(excelId.getIdContenido());
+				 }
 				 
 				if (CurrentPage.As(Admin_HomePage.class).esVisibleURLimagen(ex.getUrl())) {
 					imagenPresente = "Se encuentra la imagen en la pagina";
@@ -87,7 +92,7 @@ public class Buscar_Imagenes_UnicoIDContenido_Step extends BaseStep {
 				}
 				
 				log.Log.info("Para el id:" + excelId.getIdContenido() + "_" +  ex.getUrl() + "-" + imagenPresente );
-				//CurrentPage.As(Admin_HomePage.class).cancelarContenido("Busqueda de contenido", configuration.geturlDesarrolloWindow(),XMLHelper.object.getHost());
+				
 			}
 			
 			ExcelHelper.EscribirExcel("Imagenes_Presentes", idContenidosConImagenes);
