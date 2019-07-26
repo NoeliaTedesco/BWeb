@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<objects>
+    <asignado>Noelia</asignado>
+    <descripcion>Biblos - Revisar imagenes</descripcion>
+    <estado>Pasa</estado>
+    <host>sistemas.osde.com</host>
+    <imgFalla></imgFalla>
+    <nombreDeLaPrueba>Test_Imagen_02</nombreDeLaPrueba>
+    <pasos>
+        <entry>
+            <key>05_Se busca cada contenido del documento</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>01_Se ingresa a la test Intranet</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo</key>
+            <value>Pasa</value>
+        </entry>
+        <entry>
+            <key>04_Ingresa a la opcion del menu Busqueda de contenido</key>
+            <value>Pasa</value>
+        </entry>
+    </pasos>
+    <prioridad>Alta</prioridad>
+    <referencia>Referencia</referencia>
+    <sprint>Ciclo 0</sprint>
+    <tiempoFinal>285</tiempoFinal>
+    <tiempoInicio>1564106917</tiempoInicio>
+    <tipoDePrueba>Regresión</tipoDePrueba>
+    <usuario>
+        <password>intranet79</password>
+        <usser>SS27310759</usser>
+    </usuario>
+    <version>0.1.0</version>
+</objects>

@@ -1,37 +1,302 @@
-2019-07-25 14:59:07,383 INFO  [Log] Se ingresa a la testIntranet 
-2019-07-25 14:59:07,384 INFO  [Log] 01_Se ingresa a la test Intranet: Pasa 
-2019-07-25 15:00:09,450 INFO  [Log] 02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo: Pasa 
-2019-07-25 15:01:13,017 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-25 15:01:24,249 INFO  [Log] Se selecciona el host de prueba 
-2019-07-25 15:01:24,594 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-25 15:01:39,206 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-25 15:01:39,207 INFO  [Log] 04_Ingresa a la opcion del menu Busqueda de contenido: Pasa 
-2019-07-25 15:02:17,948 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-25 15:02:17,949 INFO  [Log] Se logra buscar el contenido 
-2019-07-25 15:02:21,367 INFO  [Log] No se encuentra error en consola 
-2019-07-25 15:02:21,367 INFO  [Log] La URL de la imagen no aparece en la pagina  
-2019-07-25 15:02:21,898 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78_0_No se encuentra imagen presente 
-2019-07-25 15:03:01,497 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-25 15:03:01,497 INFO  [Log] Se logra buscar el contenido 
-2019-07-25 15:03:04,809 INFO  [Log] No se encuentra error en consola 
-2019-07-25 15:03:04,809 INFO  [Log] La URL de la imagen no aparece en la pagina  
-2019-07-25 15:03:05,242 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78_1_No se encuentra imagen presente 
-2019-07-25 15:03:44,164 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-25 15:03:44,164 INFO  [Log] Se logra buscar el contenido 
-2019-07-25 15:03:46,180 INFO  [Log] Para el id:09bb70a5-6297-4576-b224-6baf9d53e959_2_Se encuentra la imagen en la pagina 
-2019-07-25 15:04:19,059 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-25 15:04:29,840 INFO  [Log] Se selecciona el host de prueba 
-2019-07-25 15:04:30,144 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-25 15:04:40,463 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-25 15:04:40,463 INFO  [Log] Se vuelve a ingresar a Biblos 
-2019-07-25 15:05:14,443 INFO  [Log] Se logra seleccionar el contenido 
-2019-07-25 15:05:14,443 INFO  [Log] Se logra buscar el contenido 
-2019-07-25 15:05:16,449 INFO  [Log] Para el id:18d565c8-ecf1-4d3a-a15d-b116e0ce3efc_3_Se encuentra la imagen en la pagina 
-2019-07-25 15:05:49,440 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
-2019-07-25 15:05:59,964 INFO  [Log] Se selecciona el host de prueba 
-2019-07-25 15:06:00,275 INFO  [Log] Se logra hacer clic en el administrador general 
-2019-07-25 15:06:10,788 INFO  [Log] Se logra seleccionar la opcion del menu 
-2019-07-25 15:06:10,789 INFO  [Log] Se vuelve a ingresar a Biblos 
-2019-07-25 15:06:10,983 INFO  [Log] 05_Se busca cada contenido del documento: Pasa 
-2019-07-25 15:06:10,983 INFO  [Log] End test: Test_Imagen_01 
-2019-07-25 15:06:19,285 INFO  [Log] Sent message successfully.... 
+2019-07-25 23:08:38,523 INFO  [Log] Start test: Test_Imagen_02 
+2019-07-25 23:08:59,048 INFO  [Log] Se ingresa a la testIntranet 
+2019-07-25 23:08:59,048 INFO  [Log] 01_Se ingresa a la test Intranet: Pasa 
+2019-07-25 23:09:16,221 INFO  [Log] 02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo: Pasa 
+2019-07-25 23:09:38,597 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-07-25 23:09:42,847 INFO  [Log] Se selecciona el host de prueba 
+2019-07-25 23:09:43,056 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-07-25 23:09:46,535 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-07-25 23:09:46,535 INFO  [Log] 04_Ingresa a la opcion del menu Busqueda de contenido: Pasa 
+2019-07-25 23:10:06,247 INFO  [Log] Se logra seleccionar el contenido 
+2019-07-25 23:10:06,247 INFO  [Log] Se logra buscar el contenido 
+2019-07-25 23:10:09,625 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:09,625 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:09,631 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:10:12,767 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:12,767 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:12,772 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:10:15,892 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:15,892 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:15,897 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:10:19,015 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:19,015 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:19,020 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:10:22,152 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:22,152 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:22,158 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/d688491f-c785-40e0-9a89-1539040a5094.jpg_No se encuentra imagen presente 
+2019-07-25 23:10:25,294 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:25,294 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:25,299 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:10:28,416 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:28,416 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:28,421 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:10:31,547 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:31,548 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:31,553 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:10:34,680 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:34,681 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:34,685 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/061f0889-81cc-47fd-be4e-92c6bcd1d1bf.gif_No se encuentra imagen presente 
+2019-07-25 23:10:37,859 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:37,860 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:37,864 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:10:41,054 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:41,054 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:41,059 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/8de34197-3e23-4167-9263-6b7a3003cbea.gif_No se encuentra imagen presente 
+2019-07-25 23:10:44,180 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:44,180 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:44,185 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:10:47,316 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:47,316 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:47,321 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:10:50,437 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:50,437 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:50,442 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:10:53,562 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:53,562 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:53,566 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:10:56,682 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:56,682 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:56,687 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:10:59,815 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:10:59,815 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:10:59,820 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:11:02,947 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:02,947 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:02,952 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:06,070 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:06,070 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:06,075 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:11:09,204 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:09,204 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:09,209 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:12,326 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:12,326 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:12,331 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:11:15,451 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:15,451 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:15,456 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:18,610 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:18,610 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:18,615 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:11:21,807 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:21,807 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:21,812 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:24,950 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:24,950 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:24,955 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:11:28,091 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:28,091 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:28,096 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:31,222 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:31,222 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:31,228 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:11:34,356 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:34,356 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:34,361 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:37,481 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:37,481 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:37,486 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:11:40,604 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:40,604 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:40,609 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:43,729 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:43,729 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:43,734 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:11:46,856 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:46,857 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:46,861 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:49,992 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:49,992 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:49,998 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:11:53,117 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:53,117 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:53,122 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:11:56,237 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:56,237 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:56,242 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:11:59,358 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:11:59,358 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:11:59,363 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:12:02,481 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:02,481 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:02,486 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:05,643 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:05,643 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:05,648 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:08,773 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:08,773 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:08,778 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:12:11,902 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:11,902 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:11,907 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:15,027 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:15,027 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:15,032 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:12:18,158 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:18,158 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:18,164 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:21,278 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:21,278 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:21,283 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:12:24,406 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:24,406 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:24,411 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:27,527 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:27,527 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:27,532 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:12:30,649 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:30,649 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:30,654 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:33,773 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:33,773 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:33,778 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:12:36,910 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:36,910 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:36,915 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:40,034 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:40,034 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:40,039 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:12:43,156 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:43,156 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:43,161 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:46,287 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:46,287 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:46,292 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:12:49,429 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:49,429 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:49,434 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:12:52,547 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:52,547 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:52,553 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:55,674 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:55,674 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:55,680 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:12:58,853 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:12:58,853 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:12:58,858 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:13:01,992 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:01,992 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:01,997 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:13:05,136 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:05,136 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:05,141 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:13:08,268 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:08,269 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:08,273 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:13:11,409 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:11,409 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:11,414 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:13:14,568 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:14,568 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:14,573 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/7d0e4608-9cb8-4ee4-a4c8-eb8a2efd4f61.gif_No se encuentra imagen presente 
+2019-07-25 23:13:17,730 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:17,730 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:17,735 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:13:20,882 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:20,882 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:20,887 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:13:24,058 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:24,058 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:24,063 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:13:27,219 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:27,219 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:27,225 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:13:30,382 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:30,382 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:30,387 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:13:33,510 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:33,510 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:33,515 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:13:36,689 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:36,689 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:36,695 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/7d0e4608-9cb8-4ee4-a4c8-eb8a2efd4f61.gif_No se encuentra imagen presente 
+2019-07-25 23:13:39,836 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:39,836 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:39,840 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:13:42,978 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:42,978 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:42,983 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:13:46,113 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:46,113 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:46,118 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:13:49,270 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:49,270 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:49,275 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:13:52,395 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:52,395 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:52,400 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:13:55,545 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:55,545 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:55,550 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:13:58,696 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:13:58,696 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:13:58,701 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:01,847 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:01,847 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:01,854 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:14:04,991 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:04,991 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:04,996 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:08,143 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:08,143 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:08,147 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:14:11,286 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:11,286 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:11,291 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:14,429 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:14,429 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:14,434 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:14:17,572 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:17,572 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:17,576 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:20,705 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:20,705 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:20,710 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:14:23,831 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:23,832 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:23,836 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:26,962 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:26,962 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:26,967 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:14:30,095 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:30,095 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:30,100 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:33,229 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:33,229 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:33,234 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:14:36,364 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:36,364 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:36,369 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:39,501 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:39,501 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:39,506 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:14:42,665 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:42,666 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:42,670 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:45,833 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:45,833 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:45,839 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/7d0e4608-9cb8-4ee4-a4c8-eb8a2efd4f61.gif_No se encuentra imagen presente 
+2019-07-25 23:14:48,986 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:48,986 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:48,991 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/imagenes/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:52,130 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:52,130 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:52,135 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:14:55,285 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:55,286 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:55,291 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:14:58,432 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:14:58,432 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:14:58,437 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/abrir.gif_No se encuentra imagen presente 
+2019-07-25 23:15:01,567 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:15:01,567 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:15:01,573 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dA/0768817a/cerrar.gif_No se encuentra imagen presente 
+2019-07-25 23:15:04,727 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:15:04,727 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:15:04,732 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/427c1cdb-0176-42e8-b1b3-ce4586d9cc61.gif_No se encuentra imagen presente 
+2019-07-25 23:15:07,903 INFO  [Log] No se encuentra error en consola 
+2019-07-25 23:15:07,903 INFO  [Log] La URL de la imagen no aparece en la pagina  
+2019-07-25 23:15:07,919 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60_http://cdsmigd.intranet.osde/dotAsset/7d0e4608-9cb8-4ee4-a4c8-eb8a2efd4f61.gif_No se encuentra imagen presente 
+2019-07-25 23:15:08,016 INFO  [Log] 05_Se busca cada contenido del documento: Pasa 
+2019-07-25 23:15:08,016 INFO  [Log] End test: Test_Imagen_02 
+2019-07-25 23:15:20,842 INFO  [Log] Sent message successfully.... 

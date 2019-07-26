@@ -245,8 +245,7 @@ public class Admin_HomePage extends BasePage {
 	public boolean esVisibleURLimagen(String url) {
 		Boolean estaPresente = false;
 		try {
-			waitFluent.until(ExpectedConditions.elementToBeClickable(menuContainer));
-			wait.until(ExpectedConditions.visibilityOf(textAreaWrapper));
+			waitFluent.until(ExpectedConditions.visibilityOf(textAreaWrapper));
 			wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("body_ifr")));
 			WebElement imagen = textArea.findElement(By.xpath("//img[contains(@src, '"+url+"')]"));
 			estaPresente = imagen.isDisplayed();
@@ -255,6 +254,7 @@ public class Admin_HomePage extends BasePage {
 			Log.info(PageHelper.checkForError(url));
 			Log.info("La URL de la imagen no aparece en la pagina ");
 		}
+		driver.switchTo().parentFrame();
 		return estaPresente;
 	}
 	
