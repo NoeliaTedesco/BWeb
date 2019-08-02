@@ -20,9 +20,12 @@ import okhttp3.OkHttpClient;
 import okhttp3.OkHttpClient.Builder;
 import okhttp3.Request;
 
+import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.ie.InternetExplorerOptions;
+import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
@@ -110,10 +113,12 @@ public class InitilizeHook extends Base {
 					driver.manage().timeouts().setScriptTimeout(120, TimeUnit.SECONDS);
 					break;
 				}
-				case "Internet Explorer": {
-					System.setProperty("webdriver.ie.driver", configuration.getDriverPath());
-					// InternetExplorerOptions IEOptions = new InternetExplorerOptions();
+				case "IE": {
+					System.setProperty("webdriver.ie.driver", configuration.getIEDriverPath());
 					setDriver(new InternetExplorerDriver());
+					driver.manage().window().maximize();
+					driver.manage().timeouts().implicitlyWait(120, TimeUnit.SECONDS);
+					driver.manage().timeouts().setScriptTimeout(120, TimeUnit.SECONDS);
 					break;
 				}
 	
@@ -131,6 +136,8 @@ public class InitilizeHook extends Base {
 			try {
 				URL urlServer = new URL(URLremoteWebDriver);
 				ChromeOptions options = new ChromeOptions();
+				options.addArguments("--start-maximized");
+				options.addArguments("--disable-extensions");
 				setDriver(new RemoteWebDriver(urlServer, options));
 				driver.manage().timeouts().implicitlyWait(180, TimeUnit.SECONDS);
 			} catch (Exception e) {

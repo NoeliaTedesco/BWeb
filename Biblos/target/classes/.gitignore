@@ -1,8 +1,10 @@
-/META-INF/
-/steps/
-/Test_Imagen_01_03.xls
-/Test_Imagen_01_1.xls
+/components/
+/configuration/
 /context/
+/contextAdicional/
 /pages/
-/Test_Imagen_01_2.xls
-/Test_Imagen_01_4.xls
+/steps/
+/META-INF/
+/Test_Imagen_02.xls
+/Test_Imagen_02_1.xls
+/Test_Imagen_03.xls

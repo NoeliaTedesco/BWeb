@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 
 import components.Hook;
 import steps.BuscarImagenes_Step;
+import steps.Buscar_Existe_Contenido_Step;
 import steps.Buscar_Imagenes_UnicoIDContenido_Step;
 
 public class Regresion_RecuperarImagen extends Hook {
@@ -18,9 +19,14 @@ public class Regresion_RecuperarImagen extends Hook {
 //		BuscarImagenes_Step.Run(method.getName());
 //	}
 	
+//	@Test
+//	public void Test_Imagen_02(Method method) throws IOException {
+//		Buscar_Imagenes_UnicoIDContenido_Step.Run(method.getName());
+//	}
+	
 	@Test
-	public void Test_Imagen_02(Method method) throws IOException {
-		Buscar_Imagenes_UnicoIDContenido_Step.Run(method.getName());
+	public void Test_Imagen_03(Method method) throws IOException {
+		Buscar_Existe_Contenido_Step.Run(method.getName());
 	}
 
 }

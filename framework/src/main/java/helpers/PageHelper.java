@@ -39,7 +39,7 @@ public class PageHelper {
 	public static void WaitForPageLoading() throws InterruptedException {
 		Boolean r = false;
 		int ite = 0;
-		while (ite <= 50) {
+		while (ite <= 20) {
 			r = wait.until(new ExpectedCondition<Boolean>() {
 				public Boolean apply(WebDriver driver) {
 					return (Boolean) js.executeScript("return document.readyState").toString().equals("complete");
@@ -49,16 +49,15 @@ public class PageHelper {
 		}
 	}
 
-	public static String checkForError(String urlImagen) {
-		String url = urlImagen.substring(41);
-		String errorImagen = "No se encuentra error en consola";
+	public static String checkForError(String url) {
+		String errorContenido = "No se encuentra error en consola";
 		LogEntries errors = driver.manage().logs().get(LogType.BROWSER);
 		for (LogEntry entry : errors) {
 			if (entry.getMessage().contains(url)) {
-				errorImagen= entry.getMessage();
+				errorContenido= entry.getMessage();
 			}
 		}
-		return errorImagen;
+		return errorContenido;
 	}
 
 	public static void deleteAllCookies(WebDriver driver) {

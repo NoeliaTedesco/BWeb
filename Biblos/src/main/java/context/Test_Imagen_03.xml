@@ -4,19 +4,11 @@
     <descripcion>Biblos - Revisar imagenes</descripcion>
     <estado>Pasa</estado>
     <host>sistemas.osde.com</host>
-    <imgFalla>C:\imageRepository\FALLA_Test_Imagen_02_Desarrollo.png</imgFalla>
-    <nombreDeLaPrueba>Test_Imagen_02</nombreDeLaPrueba>
+    <imgFalla></imgFalla>
+    <nombreDeLaPrueba>Test_Imagen_03</nombreDeLaPrueba>
     <pasos>
         <entry>
             <key>01_Se ingresa a la test Intranet</key>
-            <value>Pasa</value>
-        </entry>
-        <entry>
-            <key>02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo</key>
-            <value>Pasa</value>
-        </entry>
-        <entry>
-            <key>04_Ingresa a la opcion del menu Busqueda de contenido</key>
             <value>Pasa</value>
         </entry>
     </pasos>
@@ -24,7 +16,7 @@
     <referencia>Referencia</referencia>
     <sprint>Ciclo 0</sprint>
     <tiempoFinal>285</tiempoFinal>
-    <tiempoInicio>1564374353</tiempoInicio>
+    <tiempoInicio>1564673846</tiempoInicio>
     <tipoDePrueba>Regresión</tipoDePrueba>
     <usuario>
         <password>intranet79</password>

@@ -80,6 +80,7 @@ public class ExcelHelper {
 			}
 			misDatos.add(currentHash);
 		}
+
 		return misDatos;
 	}
 
@@ -101,8 +102,8 @@ public class ExcelHelper {
 		HSSFRow rowHeader = sheet.createRow(0);
 		rowHeader.createCell(0).setCellValue("Ids contenidos");
 		rowHeader.createCell(1).setCellValue("URLS");
-
-		for (int i = 0; i < idsContenidos.size(); i++) {
+		
+		for (int i = 0; i < idsContenidos.size(); i++) {	
 			HSSFRow row = sheet.createRow(i+1);
 			row.createCell(0).setCellValue(idsContenidos.get(i));
 			row.createCell(1).setCellValue(URLS.get(i));
@@ -111,4 +112,5 @@ public class ExcelHelper {
 		workbookOut.write(webdata);
 		webdata.close();
 	}
+
 }

@@ -12,6 +12,7 @@ public class Configuration {
 	private String urlDesarrolloLinux;
 	private String correo;
 	private String driverPath;
+	private String IEDriverPath;
 	private String log4jPath;
 	private String delivery;
 	private String deliveryPath;
@@ -26,9 +27,10 @@ public class Configuration {
 
 	public Configuration(String browser, String urlTestIntranet, String urlDesarrolloWindow, String urlTesting, String urlDesarrolloLinux, String driverPath,
 			String log4jPath, String delivery, String reportPath, String reportRepository, String imageRepository,
-			String deliveryPath, String urlDriver, String pruebaRemota, String correo) {
+			String deliveryPath, String urlDriver, String pruebaRemota, String correo, String IEDriverPath) {
 		this.browser = browser;
 		this.driverPath = driverPath;
+		this.IEDriverPath = IEDriverPath;
 		this.log4jPath = log4jPath;
 		this.delivery = delivery;
 		this.reportPath = reportPath;
@@ -42,6 +44,7 @@ public class Configuration {
 		this.urlTesting = urlTesting;
 		this.urlDesarrolloLinux = urlDesarrolloLinux;
 		this.correo = correo;
+
 	}
 
 	
@@ -178,7 +181,16 @@ public class Configuration {
 	public void setCorreo(String correo) {
 		this.correo = correo;
 	}
-	
-	
+
+	public String getIEDriverPath() {
+		return IEDriverPath;
+	}
+
+	@XmlElement
+	public void setIEDriverPath(String iEDriverPath) {
+		IEDriverPath = iEDriverPath;
+	}
+
+
 
 }

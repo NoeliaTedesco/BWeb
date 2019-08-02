@@ -214,7 +214,8 @@ public class Admin_HomePage extends BasePage {
 			while (btnBuscar.getAttribute("className").contains("dijitDisabled")) {
 				PageHelper.waitImplicit();
 			}
-			btnBuscar.click();
+			campoBuscar.click();
+			PageHelper.waitImplicit();
 			seleccionarContenido();
 			Log.info("Se logra buscar el contenido");
 		} catch (Exception e) {
@@ -229,10 +230,12 @@ public class Admin_HomePage extends BasePage {
 		try {
 			waitFluent.until(ExpectedConditions.visibilityOf(frameContenido));
 			waitFluent.until(ExpectedConditions.visibilityOf(tablaResultados));
-			PageHelper.waitImplicit();
 			WebElement el = tablaResultados.findElement(By.xpath("./tbody/tr[2]/td[3]"));
 			wait.until(ExpectedConditions.elementToBeClickable(el));
-			el.click();
+			while (el.isDisplayed()) {
+				el.click();
+				PageHelper.waitImplicit();
+			}
 			waitFluent.until(ExpectedConditions.elementToBeClickable(menuContainer));
 			Log.info("Se logra seleccionar el contenido");
 		} catch (Exception e) {
@@ -258,9 +261,28 @@ public class Admin_HomePage extends BasePage {
 		return estaPresente;
 	}
 	
+	
+	public boolean existeContenido(String idContenido) {
+		boolean tieneContenido = false;
+		try {
+			waitFluent.until(ExpectedConditions.visibilityOf(textAreaWrapper));
+			wait.until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.id("body_ifr")));
+			WebElement contenido = textArea.findElement(By.xpath("./table"));
+			if (!contenido.getText().isEmpty()) {
+			tieneContenido = true;
+			PageHelper.ScrollingToElement(contenido);
+			Log.info("Se encuentra contenido");
+			}
+		}catch(Exception e) {
+			Log.info(PageHelper.checkForError(idContenido));
+			Log.info("No se encuentra contenido");
+		}
+		return tieneContenido;
+	}
+	
+	
 	public void cancelarContenido (String opcionMenu, String urlsite, String host) {
 		try {
-			PageHelper.waitImplicit();
 			driver.switchTo().parentFrame();
 			wait.until(ExpectedConditions.elementToBeClickable(btnCancelar));
 			btnCancelar.click();
