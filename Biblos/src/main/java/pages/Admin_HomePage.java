@@ -213,8 +213,9 @@ public class Admin_HomePage extends BasePage {
 			wait.until(ExpectedConditions.elementToBeClickable(btnBuscar));
 			while (btnBuscar.getAttribute("className").contains("dijitDisabled")) {
 				PageHelper.waitImplicit();
+
 			}
-			campoBuscar.click();
+			btnBuscar.click();
 			PageHelper.waitImplicit();
 			seleccionarContenido();
 			Log.info("Se logra buscar el contenido");
@@ -230,19 +231,32 @@ public class Admin_HomePage extends BasePage {
 		try {
 			waitFluent.until(ExpectedConditions.visibilityOf(frameContenido));
 			waitFluent.until(ExpectedConditions.visibilityOf(tablaResultados));
-			WebElement el = tablaResultados.findElement(By.xpath("./tbody/tr[2]/td[3]"));
-			wait.until(ExpectedConditions.elementToBeClickable(el));
-			while (el.isDisplayed()) {
-				el.click();
-				PageHelper.waitImplicit();
-			}
-			waitFluent.until(ExpectedConditions.elementToBeClickable(menuContainer));
+			PageHelper.waitImplicit();
+			boolean click;
+			do {
+				click = clicElementoBusqueda();
+			} while (!click);
+			
 			Log.info("Se logra seleccionar el contenido");
 		} catch (Exception e) {
 			e.printStackTrace();
 			Log.info(e.getMessage());
 			Log.info("Falla el seleccionar el contenido");
 		}
+	}
+	
+	public boolean clicElementoBusqueda() {
+		boolean estaVisible = false;
+		try {
+			WebElement el = tablaResultados.findElement(By.xpath("./tbody/tr[2]/td[3]"));
+			if (ExpectedConditions.elementToBeClickable(el) != null) {
+				el.click();
+				estaVisible =  true;
+			}
+		} catch (Exception e) {
+			Log.info("Error al validar visibilidad del resultado de busqueda");
+		}
+		return estaVisible;
 	}
 
 	public boolean esVisibleURLimagen(String url) {
@@ -277,12 +291,14 @@ public class Admin_HomePage extends BasePage {
 			Log.info(PageHelper.checkForError(idContenido));
 			Log.info("No se encuentra contenido");
 		}
+		driver.switchTo().parentFrame();
 		return tieneContenido;
 	}
 	
 	
 	public void cancelarContenido (String opcionMenu, String urlsite, String host) {
 		try {
+			PageHelper.waitImplicit();
 			driver.switchTo().parentFrame();
 			wait.until(ExpectedConditions.elementToBeClickable(btnCancelar));
 			btnCancelar.click();

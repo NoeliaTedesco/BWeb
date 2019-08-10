@@ -1,0 +1,990 @@
+2019-08-08 08:43:39,647 INFO  [Log] Start test: Test_Imagen_03 
+2019-08-08 08:44:49,904 INFO  [Log] Se ingresa a la testIntranet 
+2019-08-08 08:44:49,904 INFO  [Log] 01_Se ingresa a la test Intranet: Pasa 
+2019-08-08 08:47:34,967 INFO  [Log] 02_Abrir nueva ventana e ingresar al admin de Biblos - Desarrollo: Pasa 
+2019-08-08 08:48:54,694 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 08:49:43,627 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 08:49:47,176 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 08:49:47,176 INFO  [Log] 03_Se selecciona Host y se hace clic en AdministradorGeneral: Pasa 
+2019-08-08 08:50:31,891 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 08:50:31,891 INFO  [Log] 04_Ingresa a la opcion del menu Busqueda de contenido: Pasa 
+2019-08-08 08:51:51,736 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 08:51:51,737 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 08:51:58,080 INFO  [Log] No se encuentra error en consola 
+2019-08-08 08:51:58,081 INFO  [Log] No se encuentra contenido 
+2019-08-08 08:52:01,867 INFO  [Log] Para el id:00498331-839e-4724-99c7-2c3fca979c28-No se encuentra contenido en el TextArea 
+2019-08-08 08:55:01,885 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 08:55:45,866 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 08:55:50,729 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 08:56:39,355 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 08:57:31,243 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 08:58:15,985 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 08:58:15,986 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:03:20,237 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:03:20,238 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:03:23,973 INFO  [Log] Para el id:00499857-3b95-44fd-966b-092959595fee-No se encuentra contenido en el TextArea 
+2019-08-08 09:06:15,385 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:07:06,278 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:07:08,929 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:07:51,114 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:07:53,641 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:09:40,451 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:09:40,452 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:09:46,054 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:09:46,054 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:09:48,502 INFO  [Log] Para el id:00653db3-5220-4f1f-85f5-57bb92da135d-No se encuentra contenido en el TextArea 
+2019-08-08 09:13:48,253 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:14:42,672 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:14:47,539 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:15:30,557 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:15:44,330 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:17:16,076 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:17:16,076 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:17:21,908 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:17:21,909 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:17:23,769 INFO  [Log] Para el id:007cef2e-cca2-4d0f-bad2-c9144ee48f44-No se encuentra contenido en el TextArea 
+2019-08-08 09:20:39,960 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:21:34,292 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:21:36,330 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:22:12,467 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:22:14,766 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:23:54,002 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:23:54,003 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:23:59,190 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:23:59,191 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:24:02,714 INFO  [Log] Para el id:00903542-0bbb-49f6-8ce8-87372a671776-No se encuentra contenido en el TextArea 
+2019-08-08 09:28:03,791 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:28:41,896 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:28:43,826 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:29:15,040 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:29:16,956 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:30:26,176 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:30:26,176 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:30:31,354 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:30:31,354 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:30:33,356 INFO  [Log] Para el id:013e93eb-4c7c-4c56-8fb1-715ae8060611-No se encuentra contenido en el TextArea 
+2019-08-08 09:32:50,938 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:33:31,349 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:33:36,657 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:34:24,830 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:34:40,066 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:36:04,426 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:36:04,426 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:36:11,180 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:36:11,181 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:36:13,228 INFO  [Log] Para el id:016ba189-20da-4ec1-9ef4-e417be779c78-No se encuentra contenido en el TextArea 
+2019-08-08 09:38:21,697 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:38:44,193 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:38:45,297 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:39:01,975 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:39:03,151 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:40:16,858 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:40:16,858 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:40:21,632 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:40:21,632 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:40:22,486 INFO  [Log] Para el id:01a1b8dd-e20c-4aa2-b7ed-ad29a5f4bb48-No se encuentra contenido en el TextArea 
+2019-08-08 09:41:26,437 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:41:52,280 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:41:53,028 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:42:21,525 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:42:22,594 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:42:59,145 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:42:59,146 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:48:03,267 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:48:03,267 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:48:04,101 INFO  [Log] Para el id:01cd35d0-646c-4957-bb0b-72475e497f48-No se encuentra contenido en el TextArea 
+2019-08-08 09:49:22,826 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:49:48,615 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:49:49,430 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:50:08,146 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:50:08,727 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:50:44,090 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:50:44,090 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:50:48,385 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:50:48,385 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:50:49,061 INFO  [Log] Para el id:01eb1999-04f9-41f5-8838-cd3ebc605345-No se encuentra contenido en el TextArea 
+2019-08-08 09:51:52,788 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:52:15,086 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:52:16,178 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:52:31,410 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:52:31,967 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:53:06,822 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:53:06,823 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:53:10,776 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:53:10,777 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:53:11,510 INFO  [Log] Para el id:020e0aa5-4fda-4985-a1bc-fe62b39bf0b3-No se encuentra contenido en el TextArea 
+2019-08-08 09:54:15,851 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:54:37,820 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:54:38,966 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:54:58,667 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:54:59,717 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:55:40,816 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:55:40,816 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:55:44,939 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:55:44,939 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:55:45,626 INFO  [Log] Para el id:02247321-84d8-4aac-b42e-78bb69ac29c9-No se encuentra contenido en el TextArea 
+2019-08-08 09:57:12,364 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 09:57:41,392 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 09:57:42,511 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 09:58:05,692 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 09:58:06,943 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 09:58:49,486 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 09:58:49,486 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 09:58:54,903 INFO  [Log] No se encuentra error en consola 
+2019-08-08 09:58:54,903 INFO  [Log] No se encuentra contenido 
+2019-08-08 09:58:57,188 INFO  [Log] Para el id:0241699d-6cc3-423a-8a10-f195353dee54-No se encuentra contenido en el TextArea 
+2019-08-08 10:00:57,410 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:01:33,631 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:01:34,922 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:02:23,659 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:02:31,798 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:03:38,474 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:03:38,474 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:03:44,076 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:03:44,076 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:03:45,318 INFO  [Log] Para el id:0244c214-e929-4578-bdef-dd646fc75831-No se encuentra contenido en el TextArea 
+2019-08-08 10:05:50,409 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:06:21,449 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:06:22,666 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:06:51,834 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:06:53,493 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:07:31,076 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:07:31,077 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:12:36,232 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:12:36,232 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:12:48,132 INFO  [Log] Para el id:026be9ba-6dd0-4d1c-bdc8-65b1371aac97-No se encuentra contenido en el TextArea 
+2019-08-08 10:17:31,855 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:17:37,506 INFO  [Log] Fallo el seleccionar el host de la prueba 
+2019-08-08 10:17:39,171 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:18:17,150 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:18:18,987 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:19:16,800 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:19:16,800 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:19:21,043 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:19:21,044 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:19:22,061 INFO  [Log] Para el id:0271b9d8-df85-4b9e-9790-1cabe6cef4d5-No se encuentra contenido en el TextArea 
+2019-08-08 10:21:20,332 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:21:47,562 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:21:48,615 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:22:16,417 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:22:18,010 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:22:43,265 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:22:43,265 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:27:46,819 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:27:46,819 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:27:47,896 INFO  [Log] Para el id:0274f718-03d4-44f0-997c-4179f316851a-No se encuentra contenido en el TextArea 
+2019-08-08 10:29:24,070 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:29:55,324 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:29:56,405 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:30:22,085 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:30:23,322 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:31:13,720 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:31:13,720 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:31:16,937 INFO  [Log] Se encuentra contenido 
+2019-08-08 10:31:16,968 INFO  [Log] Para el id:02918cdb-eafd-4421-8c7f-62c2212032fd-Se encuentra contenido la pagina 
+2019-08-08 10:33:02,149 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:33:27,217 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:33:28,517 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:33:49,030 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:33:52,097 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:34:53,759 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:34:53,759 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:34:59,306 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:34:59,307 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:35:00,384 INFO  [Log] Para el id:029ee665-7add-4b1c-8141-1b378cfdb2e6-No se encuentra contenido en el TextArea 
+2019-08-08 10:36:47,616 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:37:16,654 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:37:17,657 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:37:37,891 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:37:38,810 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:38:02,922 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:38:02,922 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:43:09,899 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:43:09,899 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:43:11,448 INFO  [Log] Para el id:02a5942a-026f-4d9d-97f1-836e00a27cbe-No se encuentra contenido en el TextArea 
+2019-08-08 10:44:26,025 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:44:50,226 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:44:50,922 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:45:10,770 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:45:11,555 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:45:52,691 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:45:52,691 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:45:56,468 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:45:56,468 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:45:57,307 INFO  [Log] Para el id:02e2c3b2-5c3c-4605-b1e3-b187c025cc3e-No se encuentra contenido en el TextArea 
+2019-08-08 10:47:12,787 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:47:34,191 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:47:34,906 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:47:52,362 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:47:53,038 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:48:34,860 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:48:34,861 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:48:38,685 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:48:38,686 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:48:39,692 INFO  [Log] Para el id:031c6249-43df-4db7-8cb1-ce349377ab92-No se encuentra contenido en el TextArea 
+2019-08-08 10:49:49,436 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:50:10,074 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:50:10,810 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:50:29,439 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:50:30,049 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:51:09,883 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:51:09,884 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:51:14,175 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:51:14,176 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:51:14,927 INFO  [Log] Para el id:034ac237-5fc3-42a1-811b-d82196dca0d2-No se encuentra contenido en el TextArea 
+2019-08-08 10:52:29,930 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:52:51,768 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:52:52,496 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:53:12,241 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:53:13,199 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:53:56,442 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:53:56,442 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:54:00,414 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:54:00,414 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:54:01,455 INFO  [Log] Para el id:036c2cd4-393b-4f57-92e1-1007ddfed1ba-No se encuentra contenido en el TextArea 
+2019-08-08 10:55:18,939 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:55:42,020 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:55:43,220 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:56:02,981 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:56:03,808 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:56:47,736 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:56:47,736 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:56:51,748 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:56:51,748 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:56:52,619 INFO  [Log] Para el id:037686ad-7561-490d-9f62-952f8e663d5a-No se encuentra contenido en el TextArea 
+2019-08-08 10:58:06,154 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 10:58:28,493 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 10:58:29,259 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 10:58:49,231 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 10:58:49,947 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 10:59:28,872 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 10:59:28,872 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 10:59:37,366 INFO  [Log] No se encuentra error en consola 
+2019-08-08 10:59:37,366 INFO  [Log] No se encuentra contenido 
+2019-08-08 10:59:38,697 INFO  [Log] Para el id:03a3976a-f604-47ac-b2e5-76e43de1d314-No se encuentra contenido en el TextArea 
+2019-08-08 11:00:57,681 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:01:54,255 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:01:58,497 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:02:46,016 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:02:47,565 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:03:40,498 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:03:40,498 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:03:46,530 INFO  [Log] Se encuentra contenido 
+2019-08-08 11:03:46,589 INFO  [Log] Para el id:03b4797b-6a39-41cf-a65f-f9f0f33398d7-Se encuentra contenido la pagina 
+2019-08-08 11:05:05,814 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:05:37,924 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:05:40,333 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:06:14,979 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:06:15,911 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:07:05,812 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:07:05,813 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:07:10,222 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:07:10,223 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:07:11,001 INFO  [Log] Para el id:03bcfcdd-43de-4c24-8e52-be894281b35a-No se encuentra contenido en el TextArea 
+2019-08-08 11:08:29,231 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:08:49,153 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:08:49,937 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:09:08,092 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:09:08,785 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:09:48,877 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:09:48,878 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:09:53,067 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:09:53,067 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:09:53,984 INFO  [Log] Para el id:03e8c77a-1482-4008-8a33-add5bbaf5a25-No se encuentra contenido en el TextArea 
+2019-08-08 11:11:10,455 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:11:33,231 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:11:34,788 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:11:53,540 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:11:54,592 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:12:40,253 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:12:40,254 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:12:45,319 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:12:45,319 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:12:46,244 INFO  [Log] Para el id:046626aa-e954-43b6-b8d8-ad92de0c1cbd-No se encuentra contenido en el TextArea 
+2019-08-08 11:14:07,920 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:14:42,315 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:14:45,495 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:15:11,023 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:15:11,704 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:15:53,216 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:15:53,216 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:15:56,945 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:15:56,945 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:15:57,695 INFO  [Log] Para el id:04907eed-bb31-4bc4-9ca7-f1fa9c36faaf-No se encuentra contenido en el TextArea 
+2019-08-08 11:16:57,455 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:17:13,881 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:17:14,642 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:17:29,164 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:17:29,697 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:18:06,654 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:18:06,654 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:18:10,355 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:18:10,355 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:18:10,994 INFO  [Log] Para el id:04adb886-3c46-497c-bf13-af2b7248df1b-No se encuentra contenido en el TextArea 
+2019-08-08 11:19:20,024 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:19:37,373 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:19:38,513 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:19:53,345 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:19:54,187 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:20:29,510 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:20:29,510 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:20:33,582 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:20:33,582 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:20:34,225 INFO  [Log] Para el id:04cbb062-55c0-43f6-aff2-7e22994b282c-No se encuentra contenido en el TextArea 
+2019-08-08 11:21:46,034 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:22:03,334 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:22:04,134 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:22:21,763 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:22:22,577 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:23:03,176 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:23:03,176 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:23:04,681 INFO  [Log] Se encuentra contenido 
+2019-08-08 11:23:04,702 INFO  [Log] Para el id:04cf86fc-a7eb-4cf5-a1ff-1c33520f3dee-Se encuentra contenido la pagina 
+2019-08-08 11:24:15,517 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:24:33,252 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:24:34,000 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:24:53,889 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:24:54,678 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:26:06,801 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:26:06,801 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:26:11,944 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:26:11,945 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:26:14,257 INFO  [Log] Para el id:0506a8ad-14c4-456b-8311-9a318daae602-No se encuentra contenido en el TextArea 
+2019-08-08 11:28:06,810 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:28:26,261 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:28:27,030 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:28:43,751 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:28:44,571 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:29:25,732 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:29:25,733 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:29:29,886 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:29:29,886 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:29:30,656 INFO  [Log] Para el id:05179a5b-f54d-42d6-a0c0-41f06e3adf8a-No se encuentra contenido en el TextArea 
+2019-08-08 11:30:51,754 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:31:10,739 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:31:11,601 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:31:27,384 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:31:28,621 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:32:10,607 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:32:10,607 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:32:15,073 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:32:15,073 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:32:15,766 INFO  [Log] Para el id:05d3af15-edba-46ba-b670-0f8c4d8c85aa-No se encuentra contenido en el TextArea 
+2019-08-08 11:33:24,155 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:33:44,087 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:33:44,884 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:34:02,107 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:34:02,707 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:34:38,526 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:34:38,526 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:34:42,789 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:34:42,789 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:34:43,606 INFO  [Log] Para el id:05dd5a50-a8d6-4ca3-8594-72bab6d9003d-No se encuentra contenido en el TextArea 
+2019-08-08 11:37:09,302 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:37:42,206 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:37:43,644 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:38:11,372 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:38:12,439 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:38:38,437 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:38:38,437 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:43:43,259 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:43:43,259 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:43:44,119 INFO  [Log] Para el id:05eddedb-faca-42f0-82e9-f7ffdc79622e-No se encuentra contenido en el TextArea 
+2019-08-08 11:45:33,493 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:45:59,745 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:46:00,554 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:46:27,049 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:46:28,475 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:47:57,663 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:47:57,663 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:48:01,592 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:48:01,592 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:48:02,468 INFO  [Log] Para el id:060c5cd5-80e8-451b-a145-318050c25367-No se encuentra contenido en el TextArea 
+2019-08-08 11:49:19,983 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:49:51,992 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:49:53,238 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:50:13,183 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:50:13,868 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:51:00,157 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:51:00,157 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:51:07,334 INFO  [Log] Se encuentra contenido 
+2019-08-08 11:51:07,864 INFO  [Log] Para el id:06980b4c-5335-4f54-b128-1860d15441f2-Se encuentra contenido la pagina 
+2019-08-08 11:52:28,280 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:52:49,781 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:52:50,511 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:53:09,328 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:53:10,128 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:53:51,708 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:53:51,708 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:53:56,102 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:53:56,103 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:53:57,249 INFO  [Log] Para el id:06c78e6a-fce7-4249-8163-a4a7cfdcc297-No se encuentra contenido en el TextArea 
+2019-08-08 11:55:10,336 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:55:31,837 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:55:34,621 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:55:51,958 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:55:52,572 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:56:32,087 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:56:32,087 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:56:35,949 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:56:35,949 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:56:36,812 INFO  [Log] Para el id:06ee225c-3a08-4f52-9222-eaf3254e7a6e-No se encuentra contenido en el TextArea 
+2019-08-08 11:57:41,626 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 11:57:59,025 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 11:58:00,407 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 11:58:16,560 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 11:58:17,605 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 11:59:08,876 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 11:59:08,876 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 11:59:12,981 INFO  [Log] No se encuentra error en consola 
+2019-08-08 11:59:12,981 INFO  [Log] No se encuentra contenido 
+2019-08-08 11:59:13,706 INFO  [Log] Para el id:070185c2-6d56-4e30-85fd-6006bfc00e32-No se encuentra contenido en el TextArea 
+2019-08-08 12:00:17,380 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:00:37,215 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:00:38,218 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:00:57,634 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:00:58,183 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:01:39,691 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:01:39,691 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:01:43,480 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:01:43,480 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:01:44,443 INFO  [Log] Para el id:071a7c9a-e1ed-4972-bc33-434f903d516f-No se encuentra contenido en el TextArea 
+2019-08-08 12:03:02,248 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:03:21,722 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:03:22,479 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:03:39,939 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:03:41,180 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:04:17,765 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:04:17,765 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:04:21,580 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:04:21,580 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:04:22,417 INFO  [Log] Para el id:073b1896-4e67-4a4e-aff8-6835d26e6d10-No se encuentra contenido en el TextArea 
+2019-08-08 12:05:45,150 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:06:03,544 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:06:04,149 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:06:20,394 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:06:21,520 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:07:09,269 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:07:09,269 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:07:17,050 INFO  [Log] Se encuentra contenido 
+2019-08-08 12:07:18,565 INFO  [Log] Para el id:0768817a-5229-4f0c-ac87-7b6bd4cb1c60-Se encuentra contenido la pagina 
+2019-08-08 12:08:39,605 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:09:05,665 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:09:06,651 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:09:27,047 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:09:27,994 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:10:34,709 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:10:34,709 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:10:39,824 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:10:39,824 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:10:40,778 INFO  [Log] Para el id:07e2a4e8-1fc0-4d9b-a363-9c4df36368fc-No se encuentra contenido en el TextArea 
+2019-08-08 12:13:54,590 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:14:15,453 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:14:16,326 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:14:36,396 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:14:37,189 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:15:02,602 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:15:02,602 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:20:06,756 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:20:06,757 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:20:08,327 INFO  [Log] Para el id:07f61739-f536-465d-9d63-a09097caa55e-No se encuentra contenido en el TextArea 
+2019-08-08 12:21:37,512 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:22:02,937 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:22:04,186 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:22:28,352 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:22:29,587 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:23:25,625 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:23:25,625 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:23:30,077 INFO  [Log] Se encuentra contenido 
+2019-08-08 12:23:31,070 INFO  [Log] Para el id:0811c7e7-3c84-4ea8-be1f-ed99c9597a11-Se encuentra contenido la pagina 
+2019-08-08 12:25:16,650 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:25:38,859 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:25:39,650 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:25:58,119 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:25:59,346 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:26:40,268 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:26:40,268 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:26:44,467 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:26:44,467 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:26:45,291 INFO  [Log] Para el id:081baaf1-2d02-44bd-b965-e218a1caa41f-No se encuentra contenido en el TextArea 
+2019-08-08 12:27:59,833 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:28:19,499 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:28:20,250 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:28:38,730 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:28:39,474 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:29:02,518 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:29:02,518 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:34:09,410 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:34:09,410 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:34:10,373 INFO  [Log] Para el id:08259d92-049d-44c0-b162-da38325762c6-No se encuentra contenido en el TextArea 
+2019-08-08 12:35:30,077 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:35:52,298 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:35:53,101 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:36:16,691 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:36:17,412 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:37:08,340 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:37:08,340 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:37:12,359 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:37:12,360 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:37:13,629 INFO  [Log] Para el id:08812421-6bc2-4731-83cf-7c278806c07a-No se encuentra contenido en el TextArea 
+2019-08-08 12:38:31,875 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:38:52,873 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:38:53,677 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:39:12,769 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:39:14,192 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:39:57,902 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:39:57,902 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:40:01,789 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:40:01,789 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:40:02,585 INFO  [Log] Para el id:08ad8a16-c0de-4246-a9d6-860cb2ba446b-No se encuentra contenido en el TextArea 
+2019-08-08 12:41:21,684 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:41:43,630 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:41:44,389 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:42:02,972 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:42:03,917 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:42:48,016 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:42:48,016 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:42:51,820 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:42:51,820 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:42:52,716 INFO  [Log] Para el id:08ae91b0-5223-469f-8079-9af0806f4211-No se encuentra contenido en el TextArea 
+2019-08-08 12:44:08,002 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:44:30,308 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:44:31,288 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:44:52,173 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:44:52,888 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:45:35,807 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:45:35,807 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:45:39,717 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:45:39,717 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:45:40,522 INFO  [Log] Para el id:08c34ae7-0e73-475d-a02b-e5a8e17ec1e7-No se encuentra contenido en el TextArea 
+2019-08-08 12:47:23,326 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:47:45,866 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:47:46,701 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:48:06,952 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:48:07,693 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:48:32,660 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:48:32,660 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:53:40,129 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:53:40,129 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:53:41,283 INFO  [Log] Para el id:08cd496d-a1f4-4ede-8814-fdad90c6c4cd-No se encuentra contenido en el TextArea 
+2019-08-08 12:55:11,205 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:55:36,708 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:55:37,488 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:56:02,452 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:56:03,443 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:56:44,557 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:56:44,557 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:56:48,400 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:56:48,400 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:56:49,200 INFO  [Log] Para el id:08d86d0b-3893-44cf-8994-730e2e2d7a07-No se encuentra contenido en el TextArea 
+2019-08-08 12:58:07,454 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 12:58:28,778 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 12:58:29,566 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 12:58:48,076 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 12:58:49,351 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 12:59:33,594 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 12:59:33,594 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 12:59:37,932 INFO  [Log] No se encuentra error en consola 
+2019-08-08 12:59:37,932 INFO  [Log] No se encuentra contenido 
+2019-08-08 12:59:38,771 INFO  [Log] Para el id:08ee9f28-d66e-47dc-955a-10faea8ce331-No se encuentra contenido en el TextArea 
+2019-08-08 13:00:56,107 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:01:20,636 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:01:21,433 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:01:40,586 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:01:41,845 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:02:48,279 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:02:48,279 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:02:52,196 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:02:52,196 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:02:53,338 INFO  [Log] Para el id:090dc7e7-e491-410d-8f75-b940e529407b-No se encuentra contenido en el TextArea 
+2019-08-08 13:04:49,528 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:05:19,272 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:05:21,064 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:05:42,122 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:05:42,927 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:06:29,802 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:06:29,802 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:06:33,570 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:06:33,570 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:06:34,592 INFO  [Log] Para el id:092080f7-620b-45d3-b9d2-49fcfebdd049-No se encuentra contenido en el TextArea 
+2019-08-08 13:07:46,761 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:08:07,278 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:08:08,120 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:08:27,707 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:08:28,445 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:09:12,620 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:09:12,620 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:09:16,828 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:09:16,828 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:09:17,684 INFO  [Log] Para el id:092a7bf2-1240-4a76-9d67-3f42e4e9cd0a-No se encuentra contenido en el TextArea 
+2019-08-08 13:10:35,064 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:10:55,500 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:10:56,398 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:11:16,517 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:11:17,488 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:12:06,557 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:12:06,557 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:12:10,545 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:12:10,545 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:12:12,185 INFO  [Log] Para el id:094d26f9-9f63-4a15-9f07-20a39acddd97-No se encuentra contenido en el TextArea 
+2019-08-08 13:13:31,672 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:13:58,810 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:13:59,642 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:14:18,623 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:14:19,445 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:15:09,030 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:15:09,030 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:15:13,741 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:15:13,741 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:15:14,849 INFO  [Log] Para el id:095f71b7-5f4a-4e7b-b147-7f1b349a7357-No se encuentra contenido en el TextArea 
+2019-08-08 13:16:42,222 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:17:02,246 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:17:02,984 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:17:21,668 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:17:22,837 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:18:02,246 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:18:02,246 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:18:06,391 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:18:06,392 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:18:07,270 INFO  [Log] Para el id:0967f030-5aba-465e-b35e-e79283b909bd-No se encuentra contenido en el TextArea 
+2019-08-08 13:19:22,091 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:19:51,576 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:19:52,309 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:20:10,800 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:20:11,424 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:20:52,706 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:20:52,706 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:20:56,609 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:20:56,609 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:20:57,433 INFO  [Log] Para el id:09bb70a5-6297-4576-b224-6baf9d53e959-No se encuentra contenido en el TextArea 
+2019-08-08 13:22:11,854 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:22:33,548 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:22:34,397 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:22:52,379 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:22:53,331 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:23:36,825 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:23:36,825 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:23:41,448 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:23:41,448 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:23:42,240 INFO  [Log] Para el id:09cd373f-3525-4ed2-a4f2-17595334adc4-No se encuentra contenido en el TextArea 
+2019-08-08 13:24:56,272 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:25:18,367 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:25:19,120 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:25:37,199 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:25:37,911 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:26:18,248 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:26:18,248 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:26:22,379 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:26:22,379 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:26:23,168 INFO  [Log] Para el id:09d55fba-a6c3-4db7-8e00-16957d8d2479-No se encuentra contenido en el TextArea 
+2019-08-08 13:27:39,071 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:28:00,107 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:28:00,909 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:28:18,539 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:28:19,230 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:29:03,247 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:29:03,247 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:29:07,032 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:29:07,032 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:29:07,886 INFO  [Log] Para el id:0a0b033c-13e0-4eee-a340-2d6126f47168-No se encuentra contenido en el TextArea 
+2019-08-08 13:30:24,876 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:30:45,885 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:30:46,749 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:31:08,991 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:31:11,021 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:31:51,739 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:31:51,739 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:31:55,486 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:31:55,486 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:31:56,237 INFO  [Log] Para el id:0a452800-c778-400c-b6bc-967d77bcd803-No se encuentra contenido en el TextArea 
+2019-08-08 13:33:12,058 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:33:32,748 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:33:33,566 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:33:51,162 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:33:51,884 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:34:32,121 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:34:32,121 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:34:36,454 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:34:36,454 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:34:37,264 INFO  [Log] Para el id:0a971944-d099-49bb-be63-d61a2e0cc065-No se encuentra contenido en el TextArea 
+2019-08-08 13:35:54,259 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:36:15,748 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:36:16,498 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:36:34,568 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:36:35,250 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:37:17,322 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:37:17,323 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:37:21,124 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:37:21,124 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:37:21,967 INFO  [Log] Para el id:0ab62006-c962-498e-9685-33bea9a3a2b3-No se encuentra contenido en el TextArea 
+2019-08-08 13:38:34,687 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:38:55,150 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:38:55,948 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:39:15,493 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:39:16,179 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:39:56,489 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:39:56,489 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:40:00,344 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:40:00,344 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:40:01,111 INFO  [Log] Para el id:0ae1e85c-1922-46b7-8984-81e19e9d297f-No se encuentra contenido en el TextArea 
+2019-08-08 13:41:16,440 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:41:37,783 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:41:38,592 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:41:57,246 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:41:57,982 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:42:39,712 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:42:39,712 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:42:43,974 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:42:43,974 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:42:44,789 INFO  [Log] Para el id:0af16c98-9ac1-4d1f-a2ff-e0af2cd18fd7-No se encuentra contenido en el TextArea 
+2019-08-08 13:43:59,407 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:44:21,409 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:44:22,122 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:44:39,769 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:44:40,410 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:45:25,566 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:45:25,566 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:45:29,331 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:45:29,332 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:45:30,100 INFO  [Log] Para el id:0af5eae9-cbaa-4917-b545-b71c1dc3b7a6-No se encuentra contenido en el TextArea 
+2019-08-08 13:46:55,048 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:47:16,809 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:47:18,708 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:47:37,625 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:47:38,852 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:48:27,458 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:48:27,458 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:48:31,934 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:48:31,934 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:48:32,756 INFO  [Log] Para el id:0b29285e-3fc8-4a12-9380-ab7d39b7f5c2-No se encuentra contenido en el TextArea 
+2019-08-08 13:49:47,833 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:50:08,566 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:50:09,316 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:50:28,094 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:50:28,891 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:51:10,162 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:51:10,162 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:51:14,190 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:51:14,190 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:51:14,985 INFO  [Log] Para el id:0b4366c6-4763-49e7-8054-88c2c31a9a39-No se encuentra contenido en el TextArea 
+2019-08-08 13:52:28,564 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:52:48,797 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:52:49,558 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:53:06,996 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:53:07,722 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:53:52,089 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:53:52,089 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:53:55,890 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:53:55,890 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:53:56,734 INFO  [Log] Para el id:0b496e08-07f4-4c72-bccc-d1edf18ca62b-No se encuentra contenido en el TextArea 
+2019-08-08 13:55:11,541 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:55:32,210 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:55:33,224 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:55:50,724 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:55:51,453 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:56:33,143 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:56:33,143 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 13:56:37,100 INFO  [Log] No se encuentra error en consola 
+2019-08-08 13:56:37,100 INFO  [Log] No se encuentra contenido 
+2019-08-08 13:56:37,898 INFO  [Log] Para el id:0bbecfd4-f880-438a-aa43-e13d6535cbae-No se encuentra contenido en el TextArea 
+2019-08-08 13:57:50,747 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 13:58:12,066 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 13:58:12,906 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 13:58:32,647 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 13:58:33,343 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 13:58:56,449 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 13:58:56,449 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:04:03,136 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:04:03,137 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:04:04,134 INFO  [Log] Para el id:0bf58171-106f-46a2-870f-8dc7e30a7200-No se encuentra contenido en el TextArea 
+2019-08-08 14:05:18,538 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:05:39,302 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:05:40,305 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:05:57,963 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:05:59,210 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:06:40,854 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:06:40,854 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:06:45,428 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:06:45,428 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:06:46,268 INFO  [Log] Para el id:0c2819af-f93b-4244-81f8-983b56f907c6-No se encuentra contenido en el TextArea 
+2019-08-08 14:08:07,222 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:08:27,743 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:08:28,491 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:08:45,711 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:08:46,747 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:09:27,770 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:09:27,770 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:09:31,729 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:09:31,729 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:09:32,769 INFO  [Log] Para el id:0c6782dd-9ae7-4140-8385-26743450fc8a-No se encuentra contenido en el TextArea 
+2019-08-08 14:10:49,383 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:11:09,929 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:11:10,664 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:11:28,968 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:11:29,738 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:11:52,825 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:11:52,825 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:16:59,827 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:16:59,827 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:17:00,887 INFO  [Log] Para el id:0c7b22c4-9cc9-43af-992e-6b1bbbb0dab2-No se encuentra contenido en el TextArea 
+2019-08-08 14:18:27,249 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:18:51,541 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:18:52,348 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:19:14,614 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:19:15,418 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:20:10,230 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:20:10,230 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:20:14,542 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:20:14,542 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:20:15,417 INFO  [Log] Para el id:0d0492ac-0528-4791-90ec-f0af9db8e0b4-No se encuentra contenido en el TextArea 
+2019-08-08 14:21:57,498 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:22:25,045 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:22:25,961 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:22:58,510 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:22:59,576 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:23:46,681 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:23:46,681 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:23:51,611 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:23:51,611 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:23:52,463 INFO  [Log] Para el id:0d24e1fa-d22c-4ccc-9c7b-56ac511cae15-No se encuentra contenido en el TextArea 
+2019-08-08 14:25:18,997 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:25:41,340 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:25:42,444 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:26:02,736 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:26:03,483 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:26:47,138 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:26:47,139 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:26:51,227 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:26:51,227 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:26:53,033 INFO  [Log] Para el id:0d3a7506-fb3f-4078-9af4-30846a30d852-No se encuentra contenido en el TextArea 
+2019-08-08 14:28:21,902 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:28:44,509 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:28:45,437 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:29:04,608 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:29:05,346 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:29:29,087 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:29:29,087 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:34:37,185 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:34:37,185 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:34:38,083 INFO  [Log] Para el id:0d3b2cbc-5e9f-4738-9e93-27c58efb8764-No se encuentra contenido en el TextArea 
+2019-08-08 14:35:51,930 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:36:12,502 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:36:13,216 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:36:30,791 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:36:31,963 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:37:14,020 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:37:14,020 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:37:17,939 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:37:17,939 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:37:18,869 INFO  [Log] Para el id:0d503d9b-41e7-4153-9bfb-86edecd4520e-No se encuentra contenido en el TextArea 
+2019-08-08 14:38:35,301 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:38:55,723 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:38:56,484 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:39:14,130 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:39:14,806 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:39:55,675 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:39:55,675 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:39:59,794 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:39:59,794 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:40:00,705 INFO  [Log] Para el id:0d691e0f-5556-41d1-af41-626faffd913a-No se encuentra contenido en el TextArea 
+2019-08-08 14:41:19,796 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:41:41,090 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:41:42,137 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:41:59,693 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:42:00,410 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:42:42,558 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:42:42,559 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:42:46,423 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:42:46,423 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:42:47,223 INFO  [Log] Para el id:0d89bf45-b1f8-4986-90bc-08508f21fc24-No se encuentra contenido en el TextArea 
+2019-08-08 14:44:05,862 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:44:26,715 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:44:27,474 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:44:45,775 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:44:46,785 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:45:28,030 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:45:28,030 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:45:31,997 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:45:31,997 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:45:33,084 INFO  [Log] Para el id:0db0bf2e-a69f-416b-ba1d-bf6571c4cbed-No se encuentra contenido en el TextArea 
+2019-08-08 14:46:48,933 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:47:11,428 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:47:12,213 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:47:30,282 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:47:30,961 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:48:12,334 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:48:12,334 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:48:16,289 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:48:16,289 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:48:17,117 INFO  [Log] Para el id:0dc371fc-9b26-49b7-98c6-6764e94335d7-No se encuentra contenido en el TextArea 
+2019-08-08 14:49:36,147 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:49:57,383 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:49:58,206 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:50:17,190 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:50:17,875 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:51:00,780 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:51:00,780 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:51:04,643 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:51:04,643 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:51:05,554 INFO  [Log] Para el id:0dc9c91c-1353-459c-9e24-63295a5f697f-No se encuentra contenido en el TextArea 
+2019-08-08 14:52:21,233 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:52:42,623 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:52:43,413 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:53:01,540 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:53:02,928 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:53:43,950 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:53:43,950 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:53:48,044 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:53:48,044 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:53:48,907 INFO  [Log] Para el id:0dee3199-bd87-4352-9a85-4fecbc7358cb-No se encuentra contenido en el TextArea 
+2019-08-08 14:55:08,122 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:55:28,446 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:55:29,309 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:55:47,574 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:55:48,827 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:56:31,582 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:56:31,582 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:56:36,087 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:56:36,087 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:56:36,948 INFO  [Log] Para el id:0dfd8600-c529-4bd8-8b75-6ab33a0d5775-No se encuentra contenido en el TextArea 
+2019-08-08 14:57:52,379 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 14:58:13,279 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 14:58:14,093 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 14:58:31,973 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 14:58:33,386 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 14:59:23,647 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 14:59:23,647 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 14:59:27,430 INFO  [Log] No se encuentra error en consola 
+2019-08-08 14:59:27,430 INFO  [Log] No se encuentra contenido 
+2019-08-08 14:59:28,259 INFO  [Log] Para el id:0e09fcc9-13dd-4de3-9caa-bb9730f801c3-No se encuentra contenido en el TextArea 
+2019-08-08 15:00:46,258 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 15:01:07,923 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 15:01:08,785 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 15:01:27,706 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 15:01:28,436 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 15:02:11,626 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 15:02:11,626 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 15:02:12,710 INFO  [Log] Se encuentra contenido 
+2019-08-08 15:02:12,734 INFO  [Log] Para el id:0e1a2f52-6c8c-42f3-8a88-461665be462b-Se encuentra contenido la pagina 
+2019-08-08 15:03:30,589 INFO  [Log] Se encuentra cargado correctamente la pagina de admin de Biblos 
+2019-08-08 15:03:52,128 INFO  [Log] Se selecciona el host de prueba 
+2019-08-08 15:03:52,965 INFO  [Log] Se logra hacer clic en el administrador general 
+2019-08-08 15:04:11,726 INFO  [Log] Se logra seleccionar la opcion del menu 
+2019-08-08 15:04:12,891 INFO  [Log] Se vuelve a ingresar a Biblos 
+2019-08-08 15:04:57,055 INFO  [Log] Se logra seleccionar el contenido 
+2019-08-08 15:04:57,056 INFO  [Log] Se logra buscar el contenido 
+2019-08-08 15:04:58,723 INFO  [Log] Se encuentra contenido 
+2019-08-08 15:04:58,749 INFO  [Log] Para el id:0e303910-0681-462f-b1d4-8d0ef2ca69c6-Se encuentra contenido la pagina 
+2019-08-08 15:11:10,184 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:16:21,898 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:21:31,832 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:26:42,449 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:31:53,751 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:37:02,373 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:42:11,256 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:47:19,897 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:52:28,775 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 15:57:37,597 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 16:02:46,524 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 16:07:55,327 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
+2019-08-08 16:13:04,450 INFO  [Log] No se encuentra cargado correctamente el admin de Biblos 
